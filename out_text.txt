@@ -1,0 +1,8 @@
+
+Software de escaneo en tiempo real mediante una webcam haciendo uso de
+tecnologías de visión artificial para la corrección del Angulo foc:
+almacenamiento de documentos.
+
+Sofrware de escaneo en tiempo real mediante una webcam haclendo uso de
+tecnologías de visión arfificial para la corrección del Angulo focal, digitalización y
+almacenamiento de documentos.
